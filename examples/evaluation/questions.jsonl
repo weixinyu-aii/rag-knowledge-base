@@ -1,0 +1,10 @@
+{"id":"q01","question":"员工入职满一年后每年有多少天年假？","relevant_sources":["sample-handbook.md"],"relevant_terms":["年假","10 天"],"expected_keywords":["10天"]}
+{"id":"q02","question":"差旅报销需要提交哪些材料？","relevant_sources":["sample-handbook.md"],"relevant_terms":["差旅报销","出差申请单"],"expected_keywords":["出差申请单","行程单","发票"]}
+{"id":"q03","question":"员工每周最多可以远程办公几天？","relevant_sources":["sample-handbook.md"],"relevant_terms":["远程办公"],"expected_keywords":["2天"]}
+{"id":"q04","question":"超过5000元的采购需要谁审批？","relevant_sources":["sample-handbook.md"],"relevant_terms":["5000 元","总经理"],"expected_keywords":["总经理"]}
+{"id":"q05","question":"主要业务系统密码多久更新一次？","relevant_sources":["sample-handbook.md"],"relevant_terms":["主要业务系统密码","90 天"],"expected_keywords":["90天"]}
+{"id":"q06","question":"新员工设备申请需要提前多久提交？","relevant_sources":["sample-handbook.md"],"relevant_terms":["设备申请","3 个工作日"],"expected_keywords":["3个工作日"]}
+{"id":"q07","question":"连续病假超过几天需要提交病假证明？","relevant_sources":["sample-handbook.md"],"relevant_terms":["连续病假","病假证明"],"expected_keywords":["3天"]}
+{"id":"q08","question":"出差结束后多久内应完成报销？","relevant_sources":["sample-handbook.md"],"relevant_terms":["30 日","报销"],"expected_keywords":["30日"]}
+{"id":"q09","question":"一线城市出差住宿每晚上限是多少？","relevant_sources":["sample-handbook.md"],"relevant_terms":["一线城市","600 元"],"expected_keywords":["600元"]}
+{"id":"q10","question":"发现数据泄露后应在多久内通知信息安全部门？","relevant_sources":["sample-handbook.md"],"relevant_terms":["信息安全部门","30 分钟"],"expected_keywords":["30分钟"]}
